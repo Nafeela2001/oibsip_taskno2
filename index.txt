@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="stylesheet" type="text/css" href="contactStyle.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		 <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
+	
+</head>
+<body>
+
+	<div class="background">
+		<div class="nav">
+			<a class="home active" href="#">HOME</a>
+			<a class="aboutMe" href="#">ABOUT ME</a>
+			<a class="gallery" href="#">GALLERY</a>
+			<a class="contactUs" href="#">SAY HELLO</a>	
+		</div>
+
+		<div class="content">
+
+			<div class="homePage">
+				
+			        <h1>I am Nafeela  Nasrin</h1>
+				<h3>Career objective</h3>
+				<br></br>
+				<p>°°°·.°·..·°¯°·._.· 𝐼 𝒶𝓂 𝒩𝒶𝒻𝑒𝑒𝓁𝒶 𝒩𝒶𝓈𝓇𝒾𝓃: ·._.·°¯°·.·° .·°°°</p>
+				<br></br>
+				<p> 𝔏𝔬𝔬𝔨𝔦𝔫𝔤 𝔣𝔬𝔯 𝔞 𝔠𝔥𝔞𝔩𝔩𝔢𝔫𝔤𝔦𝔫𝔤 𝔭𝔬𝔰𝔦𝔱𝔦𝔬𝔫 𝔱𝔬 𝔠𝔬𝔫𝔱𝔯𝔦𝔟𝔲𝔱𝔢 𝔞𝔫𝔡 𝔤𝔯𝔬𝔴 𝔦𝔫 𝔞𝔫 𝔢𝔫𝔳𝔦𝔯𝔬𝔫𝔪𝔢𝔫𝔱, 𝔴𝔥𝔦𝔠𝔥 𝔤𝔦𝔳𝔢𝔰 𝔪𝔢 𝔞𝔫 𝔬𝔭𝔭𝔬𝔯𝔱𝔲𝔫𝔦𝔱𝔶 𝔱𝔬 𝔭𝔯𝔬𝔳𝔢 𝔞𝔫𝔡 𝔢𝔫𝔥𝔞𝔫𝔠𝔢 𝔪𝔶 𝔠𝔯𝔢𝔞𝔱𝔦𝔳𝔢 𝔰𝔨𝔦𝔩𝔩𝔰.</p>
+				<img class="logo" src="image/logo.png">
+			</div>
+		</div>
+
+		<div class="aboutPage">
+			<div class="info">
+				<h3>Nafeela Nasrin</h3>
+				<p>nafeelanasrin2001@gmail.com</p>
+				<p>+91 6381924298</p>
+				<p>Chennai,Tamilnadu</p>
+			</div>
+			<div class="educationHeader">
+				<h2>EDUCATION</h2>
+			</div>
+			<div class="education">
+				<div class="educationField">
+					<b>Bachelor of Engineering (B.E), Computer Science & Engineering (2019-2023)</b>
+					<p>NPRCET<br>Percentage : 89.9%</p>
+					<b>XII (Senior Secondary), Science</b>
+					<p>Year of Completion: 2019<br>Rams Matric Hr.sec school<br>Percentage : 78.9%</p>
+					<b>X (Secondary)</b>
+					<p>Year of Completion: 2017<br>Rams Matric Hr.sec school<br>Percentage : 98.4%</p>
+				</div>
+			</div>
+			<div class="border"></div>
+			<div class="trainingHeader">
+				<h2>TRAINING</h2>
+			</div>
+			<div class="training">
+				<div class="trainingData">
+					<b>Oasis Infobyte</b>
+					<p>Oasis Infobyte<br>Jan 2023 - Mar 2023<br>In this training program, I learned about Developing web page .Designing a web page, Programming html and css, and also introduction to node.js .learned basics of SQL Server.</p>
+					<b>Coursera</b>
+					<p>Professional Communication<br>Dec 2022 - Jan 2023<br>This training was an experience which leads to a great boost in my confidence level and personality through soft skills development along with learning for GDs, Team work, Extempore etc.</p>
+				</div>
+			</div>
+			<div class="border"></div>
+			<div class="projectHeader">
+				<h2>PROJECT</h2>
+			</div>
+			<div class="projectData">
+				<div class="projectDataField">
+					<b>SHRIMP BROWSER</b>
+					<p>Nov 2023 - Present<br>Use for compairing the E-commerce products by price and according to user interest also can use in offline mode.
+				</div>
+			</div>
+				<div class="border1"></div>
+			<div class="skillHeader">
+				<h2>SKILLS</h2>
+			</div>
+			<div class="skillInfo1">
+				<div class="skillData">
+					<b>C Programming</b>
+					<p>Intermediate</p><br>
+					<b>Java</b>
+					<p>Basics</p><br>
+					<b>HTML</b>
+					<p>Intermediate</p><br>
+					<b>JavaScript</b>
+					<p>Basics</p>
+				</div>
+			</div>
+				<div class="skillInfo2">
+				<div class="skillData">
+					<b>C++ Programming</b>
+					<p>Intermediate</p><br>
+					<b>css</b>
+					<p>Intermediate</p><br>
+					<b>mongoDB</b>
+					<p>Basics</p><br>
+					<b>SQL</b>
+					<p>Basics</p>
+				</div>
+			</div>
+
+		</div>
+
+		<div class="galleryPage">
+			<div class="galleryPageHeader">
+				<h2>𝔐𝔶 ℭ𝔢𝔯𝔱𝔦𝔣𝔦𝔠𝔞𝔱𝔦𝔬𝔫</h2>
+			</div>
+			<div class="image">
+				<div class="pdf">
+  				<object data="image/AmcatCertificate.pdf" type="application/pdf" width="300" height="300">
+      			alt : <a href="image/AmcatCertificate.pdf"></a>
+  				</object>
+				</div>
+			</div>
+			<div class="image">
+				<div class="pdf">
+    			<object data="image/AmcatScoreCard.pdf" type="application/pdf" width="300" height="300">
+        		alt : <a href="image/AmcatScoreCard.pdf"></a>
+    			</object>
+					</div>
+				</div>
+			<div class="image">
+				<div class="pdf">
+    			<object data="image/DotNetCertificate.pdf" type="application/pdf" width="300" height="300">
+        		alt : <a href="image/DotNetCertificate.pdf"></a>
+    			</object>
+				</div>
+
+			</div>
+			<div class="image">
+				<div class="pdf">
+    			<object data="image/javaScriptCertificate.pdf" type="application/pdf" width="300" height="300">
+        		alt : <a href="image/javaScriptCertificate.pdf"></a>
+    			</object>
+				</div>
+			</div>
+			<div class="image">
+				<div class="pdf">
+    			<object data="image/RoboticsParticipationCerficate.pdf" type="application/pdf" width="300" height="300">
+        		alt : <a href="image/RoboticsParticipationCerficate.pdf"></a>
+    			</object>
+				</div>
+			</div>
+		</div>
+
+		<div class="contactUsPage">
+			<div class="contactForm">
+				<form>
+					<input name="name" placeholder="Enter Name" class="name" required />
+					<input name="emailaddress" placeholder="Enter your email" class="email" type="email" required />
+    			<textarea rows="4" cols="50" name="subject" placeholder="Please enter your message" class="message" required></textarea>
+    			<input name="submit" class="btn" type="submit" value="Send" />
+				</form>
+				<div class="socialAccontLinks">
+					
+			                <a href="https://plus.google.com/u/1/106024445574423256054" class="fa fa-google"></a>
+					<a href="https://www.linkedin.com/in/nafeelanasrin/" class="fa fa-linkedin"></a>
+					<a href="https://live:nafeela.4u" class="fa fa-skype"></a>
+					<a href="https://github.com/nafeela nasrin" class="fa fa-github"></a>
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+	 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('a').click(function(){
+				var selected = $(this);
+				$('a').removeClass('active');
+				$(selected).addClass('active');
+			});
+
+					var $home = $('.home'),
+					$aboutMe = $('.aboutMe'),
+					$gallery = $('.gallery'),
+					$contactUs = $('.contactUs'),
+					$homePage = $('.homePage'),
+					$aboutPage = $('.aboutPage'),
+					$galleryPage = $('.galleryPage'),
+					$contactUsPage = $('.contactUsPage');
+
+					$home.click(function(){
+						$homePage.fadeIn();
+						$aboutPage.fadeOut();
+						$galleryPage.fadeOut();
+						$contactUsPage.fadeOut();
+					});
+
+					$aboutMe.click(function(){
+						$aboutPage.fadeIn();
+						$homePage.fadeOut();
+						$galleryPage.fadeOut();
+						$contactUsPage.fadeOut();
+					});
+
+					$gallery.click(function(){
+						$galleryPage.fadeIn();
+						$homePage.fadeOut();
+						$aboutPage.fadeOut();
+						$contactUsPage.fadeOut();
+					});
+
+					$contactUs.click(function(){
+						$contactUsPage.fadeIn();
+						$galleryPage.fadeOut();
+						$homePage.fadeOut();
+						$aboutPage.fadeOut();
+					});
+
+
+		});
+	</script>
+	<footer class="footer">&copy; 2023 Nafeela Nasrin</footer>
+
+</body>
+</html>
